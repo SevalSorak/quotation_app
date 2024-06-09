@@ -16,7 +16,7 @@ Bu uygulama, kullanıcıların özlü sözleri görmelerini ve favori sözlerini
 ![Screenshot 1](3.png)
 ![Screenshot 1](4.png)
 
-## Kurulu
+## Kurulum
 
 Projeyi yerel ortamınıza kurmak için şu adımları izleyin:
 
