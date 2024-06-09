@@ -11,10 +11,10 @@ Bu uygulama, kullanıcıların özlü sözleri görmelerini ve favori sözlerini
 
 ## Ekran Görüntüleri
 
-![Screenshot 1](1.png)
-![Screenshot 1](2.png)
-![Screenshot 1](3.png)
-![Screenshot 1](4.png)
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)
+![Screenshot 4](screenshots/4.png)
 
 ## Kurulum
 
